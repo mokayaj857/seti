@@ -1,6 +1,6 @@
 <div align="center">
 
-# seti
+# seti.
 
 **Prediction markets for real-world events — built with a modular, multi-chain architecture**
 
